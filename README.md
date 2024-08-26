@@ -7,7 +7,7 @@ This is an old build of Cemu (version 2.0 experimental from July 17, 2023) with 
 ## Improvements 
 
 - No crashes on load when starting "SuperChargers" and "Imaginators."
-- Emulated Portal of Power integrated into this build and works splendidly.
+- Emulated "Portal of Power" integrated into this build and works splendidly.
 - The "controllerProfiles" folder includes bindings for the keyboard.
 - The "graphicPacks" folder contains the "Cemu Graphic Packs: v914" specifically for Skylanders.
 - The "NFC" folder includes the "Ultimate NFC Pack V5" in the SKY variant.

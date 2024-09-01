@@ -1,5 +1,8 @@
 # Cemu-Skylanders-Emulated-Portal
 
+**DOWNLOAD: [Cemu-Skylanders-Emulated-Portal](https://github.com/skylandersNFC/Cemu-Skylanders-Emulated-Portal/releases/tag/Cemu-Skylanders-Emulated-Portal)**
+
+
 This is an old build of Cemu (version 2.0 experimental from July 17, 2023) with an emulated Skylanders Portal of Power, implemented by deReeperJosh and compiled by TheBiemGamer.
 
 ![Cemu-Skylanders-Emulated-Portal](https://raw.githubusercontent.com/skylandersNFC/Cemu-Skylanders-Emulated-Portal/main/images/Cemu-Skylanders-Emulated-Portal.jpg)

@@ -1,3 +1,0 @@
-Use the SKY dumps with the Emulated Portal inside Cemu.
-If you're unsure how to do this, refer to the JPG images.
-All dumps are from the Ultimate NFC Pack V5.
